@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<ListOrdersResponse xmlns="https://mws.amazonservices.com/Orders/2013-09-01">
+  <ListOrdersResult>
+    <Orders>
+      <Order>
+        <AmazonOrderId>403-7486507-4213125</AmazonOrderId>
+        <SellerOrderId>R484366668</SellerOrderId>
+        <PurchaseDate>2014-06-03T10:46:42Z</PurchaseDate>
+        <LastUpdateDate>2014-06-04T05:22:43Z</LastUpdateDate>
+        <OrderStatus>Unshipped</OrderStatus>
+        <FulfillmentChannel>MFN</FulfillmentChannel>
+        <SalesChannel>Amazon.in</SalesChannel>
+        <ShipServiceLevel>IN Exp Dom 2</ShipServiceLevel>
+        <ShippingAddress>
+          <Name>anjali gosain</Name>
+          <AddressLine1>821A street no 7 govind puri , 3rd floor</AddressLine1>
+          <City>new delhi</City>
+          <StateOrRegion>delhi</StateOrRegion>
+          <PostalCode>110019</PostalCode>
+          <CountryCode>IN</CountryCode>
+          <Phone>9899131736</Phone>
+        </ShippingAddress>
+        <OrderTotal>
+          <CurrencyCode>INR</CurrencyCode>
+          <Amount>858.00</Amount>
+        </OrderTotal>
+        <NumberOfItemsShipped>2</NumberOfItemsShipped>
+        <NumberOfItemsUnshipped>0</NumberOfItemsUnshipped>
+        <PaymentExecutionDetail>
+          <PaymentExecutionDetailItem>
+            <Payment>
+              <CurrencyCode>INR</CurrencyCode>
+              <Amount>858.00</Amount>
+            </Payment>
+            <PaymentMethod>COD</PaymentMethod>
+          </PaymentExecutionDetailItem>
+        </PaymentExecutionDetail>
+        <PaymentMethod>COD</PaymentMethod>
+        <MarketplaceId>A21TJRUUN4KGV</MarketplaceId>
+        <BuyerEmail>pdwbh9yzl815wv0@marketplace.amazon.in</BuyerEmail>
+        <BuyerName>anjali</BuyerName>
+        <ShipmentServiceLevelCategory>Expedited</ShipmentServiceLevelCategory>
+        <ShippedByAmazonTFM>false</ShippedByAmazonTFM>
+        <TFMShipmentStatus>PendingPickUp</TFMShipmentStatus>
+        <OrderType>StandardOrder</OrderType>
+        <EarliestShipDate>2014-06-03T18:30:00Z</EarliestShipDate>
+        <LatestShipDate>2014-06-05T18:29:59Z</LatestShipDate>
+        <EarliestDeliveryDate>2014-06-05T18:30:00Z</EarliestDeliveryDate>
+        <LatestDeliveryDate>2014-06-10T18:29:59Z</LatestDeliveryDate>
+      </Order>
+    </Orders>
+  </ListOrdersResult>
+  <ResponseMetadata>
+    <RequestId>7a2d9a7c-d636-4ec3-919f-47f506341b7f</RequestId>
+  </ResponseMetadata>
+</ListOrdersResponse>
